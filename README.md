@@ -1,7 +1,7 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TonyPhoneix)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TonyPhoneix&hide=issues,contribs&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyPhoneix)](https://github.com/vran-dev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyPhoneix&layout=compact&card_width=445)](https://github.com/vran-dev)
 
 <!--
 **TonyPhoneix/TonyPhoneix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
